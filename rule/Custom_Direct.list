@@ -149,6 +149,8 @@ DOMAIN-SUFFIX,vv1865.com
 # 其他
 # Server酱
 DOMAIN-SUFFIX,sct.ftqq.com
+# 爱普生打印机
+DOMAIN-SUFFIX,p01.epsonconnect.com
 
 # 机器人添加域名
 # 以下域名由用户通过机器人添加，无备案且 NS 不属于中国大陆，或解析结果不属于中国大陆
@@ -207,6 +209,8 @@ DOMAIN-SUFFIX,day.app
 
 # 阴阳师工具 / add by Telegram user: 奶茶 / Date: 2025-11-30 15:30:08
 DOMAIN-SUFFIX,yyshub.top
+# CDN / add by Telegram user: 𝓚𝓮𝓵𝓿𝓲𝓷𝓟 / Date: 2025-12-17 11:16:00
+DOMAIN-SUFFIX,bunny.net
 
 # =======================================
 # 以下是应当直连的冷门国内域名规则
@@ -216,6 +220,30 @@ DOMAIN-SUFFIX,yyshub.top
 # 以下是准备向 GeoSite 上游仓库提交 PR 的国内冷门域名，收录后会注释对应内容
 # ---------------------------------------
 # 以下域名待提交 PR
+# 社区 / add by Telegram user: 哈Lay / Date: 2025-12-29 12:54:22
+DOMAIN-SUFFIX,a0d.top
+# 游戏资讯网站 / add by Telegram user: 麦香鸡 / Date: 2025-12-28 14:36:02
+DOMAIN-SUFFIX,aqtwwx.net
+# 国内某设计类网站 / add by Telegram user: 2. / Date: 2025-12-28 00:26:57
+DOMAIN-SUFFIX,acggit.com
+# 国内某设计类网站 / add by Telegram user: 2. / Date: 2025-12-28 00:26:19
+DOMAIN-SUFFIX,aigodlike.com
+# iOS旧版App服务 / add by Telegram user: 雪菜 / Date: 2025-12-27 11:39:43
+DOMAIN-SUFFIX,timbrd.com
+# aicoding / add by Telegram user: Makka / Date: 2025-12-27 10:11:32
+DOMAIN-SUFFIX,anyrouter.top
+
+
+
+
+
+
+# 2025.12.26 分类整理完毕
+
+# ---------------------------------------
+# 以下域名已提交 PR
+
+# PR 至 felixonmars/dnsmasq-china-list
 # add by Telegram user: Aethersailor / Date: 2025-12-22 11:49:20
 DOMAIN-SUFFIX,hhtvc.com
 # add by Telegram user: Aethersailor / Date: 2025-12-22 11:37:14
@@ -238,19 +266,6 @@ DOMAIN-SUFFIX,eagsen.com
 DOMAIN-SUFFIX,ycjintou.com
 # add by Telegram user: 𝓚𝓮𝓵𝓿𝓲𝓷𝓟 / Date: 2025-12-17 21:15:29
 DOMAIN-SUFFIX,weshape3d.com
-# CDN / add by Telegram user: 𝓚𝓮𝓵𝓿𝓲𝓷𝓟 / Date: 2025-12-17 11:16:00
-DOMAIN-SUFFIX,bunny.net
-
-
-
-
-# 2025.12.17 分类整理完毕
-
-# ---------------------------------------
-# 以下域名已提交 PR
-
-# PR 至 felixonmars/dnsmasq-china-list
-
 # 购物 / add by Telegram user: 𝓚𝓮𝓵𝓿𝓲𝓷𝓟 / Date: 2025-12-16 20:26:12
 DOMAIN-SUFFIX,epark.cc
 # 购物 / add by Telegram user: 𝓚𝓮𝓵𝓿𝓲𝓷𝓟 / Date: 2025-12-16 20:25:09

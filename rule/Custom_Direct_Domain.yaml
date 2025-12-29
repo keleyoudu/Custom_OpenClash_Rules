@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 384
+# TOTAL: 391
 
 payload:
   - '*m-team*'
@@ -31,18 +31,23 @@ payload:
   - '+.900cha.com'
   - '+.985hezi.com'
   - '+.998tool.com'
+  - '+.a0d.top'
   - '+.aaawz.cc'
+  - '+.acggit.com'
   - '+.adobe.com'
   - '+.afeica.com'
   - '+.afuns.me'
   - '+.aichangbaishan.com'
+  - '+.aigodlike.com'
   - '+.aistudio-app.com'
   - '+.akamaihd.net'
   - '+.akamaized.net'
   - '+.aloys233.top'
   - '+.antping.com'
   - '+.anycubic.com'
+  - '+.anyrouter.top'
   - '+.api.myip.com'
+  - '+.aqtwwx.net'
   - '+.armvm.com'
   - '+.atticus.vip'
   - '+.baiyishequ.com'
@@ -260,6 +265,7 @@ payload:
   - '+.opentrust.net'
   - '+.ottai.com'
   - '+.ourschool.cc'
+  - '+.p01.epsonconnect.com'
   - '+.paperang.com'
   - '+.pixcheese.com'
   - '+.plusde1.younoyes.com'
@@ -320,6 +326,7 @@ payload:
   - '+.tcy365.net'
   - '+.thinkerride.com'
   - '+.thmnet.com'
+  - '+.timbrd.com'
   - '+.tool56.com'
   - '+.topwd.top'
   - '+.tozi-cn.top'
